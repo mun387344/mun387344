@@ -16,9 +16,9 @@
 - ⚡ **Fun fact:** I believe learning becomes meaningful when we turn knowledge into something useful. I enjoy exploring ideas, building projects, and finding ways technology can make a difference.
 
 <p align="left">
-  <a href="muna.muhammed391@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+  <a href="mailto:muna.muhammed391@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
   <a href="https://linkedin.com">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -66,5 +66,8 @@
 <hr>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mun387344&theme=react-dark&hide_border=true&bg_color=0d1117" alt="Activity Graph" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=mun387344&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mun387344&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 </p>
