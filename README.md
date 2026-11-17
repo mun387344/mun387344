@@ -1,10 +1,14 @@
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=mun387344&label=visitors&color=0e75b6&style=flat" alt="visitor counter" />
+  <img src="https://komarev.com/ghpvc/?username=mun387344&label=visitors&color=38BDF8&style=flat" alt="visitor counter" />
 </div>
 
-<h1 align="center">
-  <span style="color: #38bdf8;">Hi There!</span> 👋
-</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hi+There!+%F0%9F%91%8B;I+am+Muna+Mohammed!" alt="Typing SVG" />
+  </a>
+</p>
+
+<hr/>
 
 
 ### A Data Science Undergraduate Student
